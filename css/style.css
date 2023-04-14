@@ -15,3 +15,8 @@ p{
 nav{
     text-align:right;
 }
+
+#pond{
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,17 @@
+p{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.contact{
+    border-style:groove;
+}
+
+#logo { 
+    height: 100px;
+    display:block;
+    float: left;
+  } 
+
+nav{
+    text-align:right;
+}
